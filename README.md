@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Margaret DuCasse
+*Graduate Student MSBAPM, University of Connecticut*
+*B.S. Chemical Engineer, University of Connecticut*
 
 ## About Me
 I’m an engineer with experience in manufacturing and product definition, currently 
