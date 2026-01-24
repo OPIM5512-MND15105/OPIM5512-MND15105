@@ -1,4 +1,4 @@
-# Hi, I’m Marg 👋
+# Hi, I’m Margaret 👋
 
 Engineer with experience in manufacturing and product definition, currently
 building skills in optimization modeling, data analysis, and data-driven
