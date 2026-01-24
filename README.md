@@ -1,8 +1,14 @@
-# Hi, I’m Margaret 👋
+# 👋 Hi, I’m Margaret DuCasse
 
-Engineer with experience in manufacturing and product definition, currently
-building skills in optimization modeling, data analysis, and data-driven
-problem solving.
+## About Me
+I’m an engineer with experience in manufacturing and product definition, currently 
+expanding my skills in data science, optimization modeling, and data-driven problem solving. 
+I’m especially interested in how structured analysis and data can be used to improve engineering 
+and operational decisions.
+
+This GitHub is where I document coursework, projects, and experiments as I continue
+building technical depth in Python, data analysis, and version control. I focus on clear 
+organization, practical problem-solving, and well-documented work that reflects real-world applications.
 
 ## 🔍 What I’m Working On
 - Optimization and logistics modeling
