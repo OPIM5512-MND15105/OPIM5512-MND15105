@@ -11,7 +11,7 @@ and operational decisions.
 This GitHub is where I document coursework, projects, and experiments as I continue
 building technical depth in Python, data analysis, and version control. I focus on clear 
 organization, practical problem-solving, and well-documented work that reflects real-world applications.
-#---
+
 ## 🔍 What I’m Working On
 - Optimization and logistics modeling
 - Data analysis using Python and Excel
