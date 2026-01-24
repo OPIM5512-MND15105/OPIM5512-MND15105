@@ -11,7 +11,7 @@ problem solving.
 
 ## 📁 Featured Projects
 - **Portfolio** – Selected engineering and analytical projects  
-  👉 github.com/YourUsername/portfolio
+  👉 github.com/OPIM5512-MND15105/portfolio
 - **Optimization Model** – Resource allocation under constraints
 - **Manufacturing Case Study** – Process analysis and improvement
 
