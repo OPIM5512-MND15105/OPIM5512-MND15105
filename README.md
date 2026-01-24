@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Margaret DuCasse
-*Graduate Student MSBAPM, University of Connecticut*
+*Graduate Student MSBAPM, University of Connecticut*<br>
 *B.S. Chemical Engineer, University of Connecticut*
 
 ## About Me
